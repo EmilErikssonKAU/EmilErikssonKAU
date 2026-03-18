@@ -1,9 +1,6 @@
-## 🛠️ Tech Stack
+👋 Hey, i'm Emil
 
-TBD
+I build things that rarely get used but sound fun.
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmilErikssonKAU&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilErikssonKAU&layout=compact&theme=radical)
+mostly working with C/C++, currently deep into recreating and redesingning widely used tools.
+i care about clean architecture, fast feedback loops, and not overengineering everything.
